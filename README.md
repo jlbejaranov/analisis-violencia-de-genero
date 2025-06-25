@@ -1,14 +1,14 @@
-# analisis-violencia-de-genero
+# Análisis violencia de género en la ciudad de Barranquilla ' Colombia en lo transcurrido del año 2025 (corte a 5 de junio)
 
-Entre enero y junio de 2025, se reportaron 1121 casos de violencia sexual en Barranquilla. Las cifras muestran una preocupante afectación hacia las mujeres, quienes representan el 71,7% de las víctimas. Además, se registraron 34 víctimas embarazadas, 347 hospitalizaciones y 4 fallecimientos.
+Entre enero y junio de 2025, se han reportado 1099 casos de violencia sexual en Barranquilla. Las cifras muestran una preocupante afectación hacia las mujeres, quienes representan el 71,7% de las víctimas. Además, se registraron 34 víctimas embarazadas, 341 hospitalizaciones y 4 fallecimientos.
 
 # Tendencias mensuales
-El número de casos por mes ha mostrado cierta variabilidad, con un pico máximo en mamayoo (250 casos) y niveles más bajos en febrero 
+El número de casos por mes ha mostrado cierta variabilidad, con un pico máximo en mayo (250 casos) y niveles más bajos en el mes de enero. 
 
 # Perfil de la víctima
-Género: Predominantemente femenino (804 mujeres, frente a 317 hombres).
+Género: Predominantemente femenino (786 mujeres, frente a 313 hombres).
 
-Edad: Las franjas más afectadas son entre 10 y 30 años, con especial concentración en jóvenes de 20 a 24 años, lo cual evidencia una alta vulnerabilidad en población joven.
+Edad: Las franjas más afectadas son entre 10 y 30 años, con especial concentración en jóvenes de 10 a 20 años, lo cual evidencia una alta vulnerabilidad en población joven.
 
 Orientación sexual: El 99% de las víctimas se identifican como heterosexuales, lo que podría reflejar la distribución poblacional, pero también sesgos de reporte.
 
